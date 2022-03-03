@@ -1,3 +1,5 @@
+package Array;
+
 import java.util.*;
 
 public class Smallest_Difference {
